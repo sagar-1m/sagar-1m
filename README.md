@@ -1,3 +1,4 @@
+![logo](https://github.com/sagar-1m/sagar-1m/blob/main/Green%20Professional%20Gamer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sagar Maheshwari</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <p align="center">Frontend developer with a keen eye for crafting beautiful and intuitive user experiences. Currently completing my degree of Bachelor's in Information Technology from Dr. Akhilesh Das Gupta Institute of Professional Studies,affliated with Guru Gobind Singh Indraprastha University (GGSIPU)</p>
