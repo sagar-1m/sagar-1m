@@ -134,7 +134,7 @@ Passionate **Full Stack Developer** and **Technical Writer** who enjoys building
       <h3 align="center">JavaScript DOM in Practice</h3>
       <div align="center">
         <a href="https://javascript-dom-in-practice.hashnode.dev/javascript-dom-in-practice-10-challenges-that-revolutionized-my-web-development-skills" target="_blank">
-          <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1718750741005/c86933a8-d3bd-4f36-932d-7f86f088e63c.png" width="100%" height="180px" style="object-fit:cover; border-radius:5px" alt="JavaScript DOM Blog"/>
+          <img src="https://github.com/sagar-1m/sagar-1m/blob/main/project-images/JS-DOM.png" width="100%" height="180px" style="object-fit:cover; border-radius:5px" alt="JavaScript DOM Blog"/>
         </a>
         <p>
           <strong>10 Challenges That Revolutionized My Web Development Skills</strong> - Practical exercises that transform how you approach DOM manipulation with JavaScript.
@@ -150,7 +150,8 @@ Passionate **Full Stack Developer** and **Technical Writer** who enjoys building
       <h3 align="center">Master JavaScript Array Methods</h3>
       <div align="center">
         <a href="https://javascript-arrays-cricket.hashnode.dev/master-javascript-array-methods-like-team-india-builds-a-world-cup-winning-squad" target="_blank">
-          <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1718750809887/3c2fbf06-920e-4e6e-afef-24bf2df9861c.png" width="100%" height="180px" style="object-fit:cover; border-radius:5px" alt="JavaScript Arrays Blog"/>
+          <img src="https://github.com/sagar-1m/sagar-1m/blob/main/project-images/JS-Arrays
+          .png" width="100%" height="180px" style="object-fit:cover; border-radius:5px" alt="JavaScript Arrays Blog"/>
         </a>
         <p>
           <strong>Like Team India Builds a World Cup-Winning Squad</strong> - Understanding array methods through cricket analogies for more intuitive JavaScript development.
