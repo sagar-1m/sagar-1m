@@ -16,7 +16,7 @@
 
 <img align="right" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding gif" />
 
-I'm a passionate Full Stack Developer from India with a Bachelor's degree in Information Technology from Dr. Akhilesh Das Gupta Institute of Professional Studies, affiliated with Guru Gobind Singh Indraprastha University (GGSIPU). Graduated with a 9.36 CGPA.
+I'm a passionate **Full Stack Developer** from India with a Bachelor's degree in Information Technology from Dr. Akhilesh Das Gupta Institute of Professional Studies, affiliated with Guru Gobind Singh Indraprastha University **(GGSIPU)**. Graduated with a **9.36 CGPA**.
 
 - 💻 **Full Stack Developer** with expertise in creating end-to-end web applications
 - 🌱 Currently working on **Full Stack Projects** to enhance my development portfolio
@@ -79,7 +79,7 @@ I'm a passionate Full Stack Developer from India with a Bachelor's degree in Inf
       <h3 align="center">DOM JavaScript Challenge</h3>
       <div align="center">
         <a href="https://sagar-1m.github.io/JavaScript-DOM-Challenges/" target="_blank">
-          <img src="https://drive.google.com/file/d/1pWxdWJF681Y9cPFk8UC6xMJbkPaOI6-h/view?usp=sharing" width="100%" alt="DOM JavaScript Challenge"/>
+          <img src="/sagar-1m/sagar-1m.github.io_JavaScript-DOM-Challenges_.png" width="100%" alt="DOM JavaScript Challenge"/>
         </a>
         <p>
           <strong>Project description:</strong> Interactive web application showcasing DOM manipulation skills with vanilla JavaScript. Developed dynamic UI elements with event listeners and custom animations.
@@ -98,7 +98,7 @@ I'm a passionate Full Stack Developer from India with a Bachelor's degree in Inf
       <h3 align="center">Todo Master</h3>
       <div align="center">
         <a href="https://sagar-1m.github.io/To-Do-Master/" target="_blank">
-          <img src="https://drive.google.com/file/d/1RxR4Pni3cFzZISKM3GOgmKUJRgOrCEH_/view?usp=sharing" width="100%" alt="Todo Master App"/>
+          <img src="/sagar-1m/To Do Master.png" width="100%" alt="Todo Master App"/>
         </a>
         <p>
           <strong>Project description:</strong> Full-stack task management application with user authentication, CRUD operations, and data persistence. Built with React frontend and Node.js/Express backend.
