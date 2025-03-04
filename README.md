@@ -1,3 +1,5 @@
+![banner](https://github.com/sagar-1m/sagar-1m/blob/main/Green%20Professional%20Gamer%20LinkedIn%20Banner.png)
+
 <div align="center">
   <h1>Hi there, I'm Sagar Maheshwari 👋</h1>
   <h3>Full Stack Developer | Software Engineer | Technical Writer</h3>
