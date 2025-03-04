@@ -27,6 +27,16 @@ Passionate **Full Stack Developer** and **Technical Writer** who enjoys building
 - 🌱 **Continuous Learner** exploring new technologies and frameworks
 - 🏏 **Cricket Enthusiast** when not coding
 
+## Currently Working On 🔨
+
+<div align="center">
+  <a href="https://github.com/sagar-1m/current-project" target="_blank">
+    <img src="https://img.shields.io/badge/Full_Stack_Event_Platform_Platform-4B275F?style=for-the-badge" alt="Current Project" />
+  </a>
+</div>
+
+I'm currently building a full-featured Event Management platform using the MERN stack (MongoDB, Express, React, Node.js). This project focuses on implementing secure Event management System, responsive design, and optimized performance metrics.
+
 ## Tech Stack & Skills 🚀
 
 ### Languages
@@ -168,11 +178,14 @@ Passionate **Full Stack Developer** and **Technical Writer** who enjoys building
 ## GitHub Stats 📊
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar-1m&show_icons=true&locale=en&layout=compact&theme=react" alt="Most Used Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sagar-1m&show_icons=true&locale=en&theme=react&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=sagar-1m&theme=react" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagar-1m&show_icons=true&locale=en&theme=react" alt="GitHub Stats" />
-  
-  <img src="https://streak-stats.demolab.com?user=sagar-1m&theme=react" alt="GitHub Streak" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar-1m&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="Most Used Languages" />
+</div>
+
+<div align="center">
+  <i>Let's connect and build something amazing together!</i>
 </div>
