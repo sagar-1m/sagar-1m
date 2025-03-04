@@ -101,7 +101,7 @@ I'm a passionate **Full Stack Developer** from India with a Bachelor's degree in
           <img src="https://github.com/sagar-1m/sagar-1m/blob/main/project-images/todo-master.png" width="100%" height="220px" style="object-fit:cover; border-radius:5px" alt="Todo Master App"/>
         </a>
         <p>
-          <strong>Project description:</strong> Full-stack task management application with user authentication, CRUD operations, and data persistence. Built with React frontend and Node.js/Express backend.
+          <strong>Project description:</strong> Clean and efficient task management application built with vanilla HTML, CSS, and JavaScript. Features include task creation, completion tracking, and local storage for data persistence.
         </p>
         <div>
           <a href="https://github.com/sagar-1m/To-Do-Master" target="_blank">
