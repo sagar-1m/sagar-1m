@@ -204,10 +204,7 @@ I'm currently looking for **Full Stack Developer**, **Frontend/Backend Developer
 
 <div align="center">
   
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-1m&theme=react&hide_border=true" alt="GitHub Streak" />
-  
-  <!-- If the above doesn't work consistently, you can use this as a fallback -->
-  <!-- <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=sagar-1m&theme=react" alt="GitHub Streak" /> -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sagar-1m&theme=gruvbox-duo)](https://git.io/streak-stats)
 </div>
 
 <div align="center">
