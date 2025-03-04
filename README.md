@@ -2,9 +2,10 @@
 
 <div align="center">
   <h1>Hi there, I'm Sagar Maheshwari 👋</h1>
-  <h3>Full Stack Developer | Software Engineer</h3>
+  <h3>Full Stack Developer | Software Engineer | Technical Writer</h3>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-maheshwari-4ab2ba286/)
+  [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@sagar-1m)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@maheshwarisaga4)
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheshwarisagar65@gmail.com)
   [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1aRrpvmqEsBAa1_SjG65XsqmzKyVxM5kM/view?usp=drive_link)
@@ -16,11 +17,14 @@
 
 <img align="right" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding gif" />
 
-I'm a passionate **Full Stack Developer** from India with a Bachelor's degree in Information Technology from Dr. Akhilesh Das Gupta Institute of Professional Studies, affiliated with Guru Gobind Singh Indraprastha University **(GGSIPU)**. Graduated with a **9.36 CGPA**.
+Passionate **Full Stack Developer** and **Technical Writer** who enjoys building web applications and sharing knowledge with the developer community. I graduated with a 9.36 CGPA in Information Technology and hold Microsoft Azure AI certification. I regularly write tutorials and articles on Hashnode, focusing on JavaScript and web development topics. When I'm not coding or writing, you'll find me on the cricket field. I believe in continuous learning and am currently expanding both my project portfolio and technical content library.
 
-- 💻 **Full Stack Developer** with expertise in creating end-to-end web applications
-- 🌱 Currently working on **Full Stack Projects** to enhance my development portfolio
-- ⭐ **Continuous Learner** exploring new technologies and frameworks
+- 🎓 **Bachelor of Technology** in Information Technology
+- 🌟 **Microsoft Certified** in Azure AI Fundamentals
+- ✍️ **Technical Writer** sharing insights on Hashnode
+- 🏅 **Top 1000** in Microsoft Asia AI Odyssey Challenge
+- 🚀 **Full Stack Developer** with expertise in creating end-to-end web applications
+- 🌱 **Continuous Learner** exploring new technologies and frameworks
 - 🏏 **Cricket Enthusiast** when not coding
 
 ## Tech Stack & Skills 🚀
@@ -109,6 +113,51 @@ I'm a passionate **Full Stack Developer** from India with a Bachelor's degree in
           </a>
           <a href="https://sagar-1m.github.io/To-Do-Master/" target="_blank">
             <img src="https://img.shields.io/badge/Demo-blue?style=flat-square&logo=chrome" alt="Demo">
+          </a>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+
+## Technical Writing & Blogs ✍️
+
+<div align="center">
+  <a href="https://hashnode.com/@sagar-1m" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
+  </a>
+</div>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">JavaScript DOM in Practice</h3>
+      <div align="center">
+        <a href="https://javascript-dom-in-practice.hashnode.dev/javascript-dom-in-practice-10-challenges-that-revolutionized-my-web-development-skills" target="_blank">
+          <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1718750741005/c86933a8-d3bd-4f36-932d-7f86f088e63c.png" width="100%" height="180px" style="object-fit:cover; border-radius:5px" alt="JavaScript DOM Blog"/>
+        </a>
+        <p>
+          <strong>10 Challenges That Revolutionized My Web Development Skills</strong> - Practical exercises that transform how you approach DOM manipulation with JavaScript.
+        </p>
+        <div>
+          <a href="https://javascript-dom-in-practice.hashnode.dev/javascript-dom-in-practice-10-challenges-that-revolutionized-my-web-development-skills" target="_blank">
+            <img src="https://img.shields.io/badge/Read_Article-2962FF?style=flat-square&logo=hashnode&logoColor=white" alt="Read Article">
+          </a>
+        </div>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Master JavaScript Array Methods</h3>
+      <div align="center">
+        <a href="https://javascript-arrays-cricket.hashnode.dev/master-javascript-array-methods-like-team-india-builds-a-world-cup-winning-squad" target="_blank">
+          <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1718750809887/3c2fbf06-920e-4e6e-afef-24bf2df9861c.png" width="100%" height="180px" style="object-fit:cover; border-radius:5px" alt="JavaScript Arrays Blog"/>
+        </a>
+        <p>
+          <strong>Like Team India Builds a World Cup-Winning Squad</strong> - Understanding array methods through cricket analogies for more intuitive JavaScript development.
+        </p>
+        <div>
+          <a href="https://javascript-arrays-cricket.hashnode.dev/master-javascript-array-methods-like-team-india-builds-a-world-cup-winning-squad" target="_blank">
+            <img src="https://img.shields.io/badge/Read_Article-2962FF?style=flat-square&logo=hashnode&logoColor=white" alt="Read Article">
           </a>
         </div>
       </div>
