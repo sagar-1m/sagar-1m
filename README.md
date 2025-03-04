@@ -150,8 +150,7 @@ Passionate **Full Stack Developer** and **Technical Writer** who enjoys building
       <h3 align="center">Master JavaScript Array Methods</h3>
       <div align="center">
         <a href="https://javascript-arrays-cricket.hashnode.dev/master-javascript-array-methods-like-team-india-builds-a-world-cup-winning-squad" target="_blank">
-          <img src="https://github.com/sagar-1m/sagar-1m/blob/main/project-images/JS-Arrays
-          .png" width="100%" height="180px" style="object-fit:cover; border-radius:5px" alt="JavaScript Arrays Blog"/>
+          <img src="https://github.com/sagar-1m/sagar-1m/blob/main/project-images/JS-Arrays.png" width="100%" height="180px" style="object-fit:cover; border-radius:5px" alt="JavaScript Arrays Blog"/>
         </a>
         <p>
           <strong>Like Team India Builds a World Cup-Winning Squad</strong> - Understanding array methods through cricket analogies for more intuitive JavaScript development.
