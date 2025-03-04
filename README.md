@@ -75,11 +75,11 @@ I'm a passionate **Full Stack Developer** from India with a Bachelor's degree in
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">DOM JavaScript Challenge</h3>
       <div align="center">
         <a href="https://sagar-1m.github.io/JavaScript-DOM-Challenges/" target="_blank">
-          <img src="https://github.com/sagar-1m/sagar-1m/blob/main/project-images/dom-challenge.png" width="100%" alt="DOM JavaScript Challenge"/>
+          <img src="https://github.com/sagar-1m/sagar-1m/blob/main/project-images/dom-challenge.png" width="100%" height="220px" style="object-fit:cover; border-radius:5px" alt="DOM JavaScript Challenge"/>
         </a>
         <p>
           <strong>Project description:</strong> Interactive web application showcasing DOM manipulation skills with vanilla JavaScript. Developed dynamic UI elements with event listeners and custom animations.
@@ -94,11 +94,11 @@ I'm a passionate **Full Stack Developer** from India with a Bachelor's degree in
         </div>
       </div>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">Todo Master</h3>
       <div align="center">
         <a href="https://sagar-1m.github.io/To-Do-Master/" target="_blank">
-          <img src="https://github.com/sagar-1m/sagar-1m/blob/main/project-images/todo-master.png" width="100%" alt="Todo Master App"/>
+          <img src="https://github.com/sagar-1m/sagar-1m/blob/main/project-images/todo-master.png" width="100%" height="220px" style="object-fit:cover; border-radius:5px" alt="Todo Master App"/>
         </a>
         <p>
           <strong>Project description:</strong> Full-stack task management application with user authentication, CRUD operations, and data persistence. Built with React frontend and Node.js/Express backend.
