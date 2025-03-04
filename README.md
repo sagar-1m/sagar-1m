@@ -198,11 +198,11 @@ I'm currently looking for **Full Stack Developer**, **Frontend/Backend Developer
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sagar-1m&show_icons=true&locale=en&theme=react&hide_border=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=sagar-1m&theme=react" alt="GitHub Streak" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar-1m&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="Most Used Languages" />
 </div>
 
 <div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar-1m&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="Most Used Languages" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=sagar-1m&theme=react" alt="GitHub Streak" />
 </div>
 
 <div align="center">
