@@ -1,38 +1,129 @@
-![logo](https://github.com/sagar-1m/sagar-1m/blob/main/Green%20Professional%20Gamer%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Sagar Maheshwari</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-<p align="center">Frontend developer with a keen eye for crafting beautiful and intuitive user experiences. Currently completing my degree of Bachelor's in Information Technology from Dr. Akhilesh Das Gupta Institute of Professional Studies,affliated with Guru Gobind Singh Indraprastha University (GGSIPU)</p>
+![banner](https://github.com/sagar-1m/sagar-1m/blob/main/Green%20Professional%20Gamer%20LinkedIn%20Banner.png)
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar-1m&label=Profile%20views&color=0e75b6&style=flat" alt="sagar-1m" /> </p>
-
-### About Me
-- 💻 **Frontend Developer**: I specialize in frontend technologies such as HTML, CSS, JavaScript, and various frontend frameworks like React, Tailwind CSS and 
-                              Bootstrap. Libraries like React-router, Packages like NPM, YARN etc.
-
-- ⭐ **Passionate Learner**: I'm constantly exploring new technologies and frameworks to stay up-to-date with the latest trends in frontend development.
-
-- 🏏 **Cricket Enthusiast**: When I'm not coding, you can find me on the cricket field, enjoying the thrill of the game and staying active.
+<div align="center">
+  <h1>Hi there, I'm Sagar Maheshwari 👋</h1>
+  <h3>Full Stack Developer | Software Engineer</h3>
   
-- 🌱 I’m currently learning **Software Development**-majorly **DSA**
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-maheshwari-4ab2ba286/)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@maheshwarisaga4)
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheshwarisagar65@gmail.com)
+  [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1nSl683hGLryFN3YlPFNgKchUrG97GOxK/view?usp=drive_link)
+  
+  <img src="https://komarev.com/ghpvc/?username=sagar-1m&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</div>
 
-- 👨‍💻 Learning in public on [LinkedIn](https://www.linkedin.com/in/sagar-maheshwari-4ab2ba286/)
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, SCSS,**
+## About Me 💫
 
-- 📫 How to reach me - [Gmail](mailto:maheshwarisagar65@gmail.com) 
+<img align="right" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding gif" />
 
-- 📄 Know about my experiences- [RESUME](https://drive.google.com/file/d/1nSl683hGLryFN3YlPFNgKchUrG97GOxK/view?usp=drive_link)
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@maheshwarisaga4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@maheshwarisaga4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sagar-maheshwari-4ab2ba286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-maheshwari-4ab2ba286/" height="30" width="40" /></a>
-</p>
+I'm a passionate Full Stack Developer from India with a Bachelor's degree in Information Technology from Dr. Akhilesh Das Gupta Institute of Professional Studies, affiliated with Guru Gobind Singh Indraprastha University (GGSIPU). Graduated with a 9.36 CGPA.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- 💻 **Full Stack Developer** with expertise in creating end-to-end web applications
+- 🌱 Currently working on **Full Stack Projects** to enhance my development portfolio
+- ⭐ **Continuous Learner** exploring new technologies and frameworks
+- 🏏 **Cricket Enthusiast** when not coding
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar-1m&show_icons=true&locale=en&layout=compact" alt="sagar-1m" /></p>
+## Tech Stack & Skills 🚀
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagar-1m&show_icons=true&locale=en" alt="sagar-1m" /></p>
+### Languages
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-1m&" alt="sagar-1m" /></p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### Frameworks & Libraries
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Core Skills
+
+![Data Structures](https://img.shields.io/badge/Data_Structures-FF6B6B?style=for-the-badge&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-6495ED?style=for-the-badge&logoColor=white)
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-38B2AC?style=for-the-badge&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-1572B6?style=for-the-badge&logoColor=white)
+
+## Certifications & Achievements 🏆
+
+<div align="center">
+  <a href="#certification-link" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Certified-Azure_AI_Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certification" />
+  </a>
+  <br>
+  <a href="#challenge-link" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Asia_AI_Odyssey_Challenge-Top_1000-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Challenge" />
+  </a>
+</div>
+
+## Featured Projects 🛠️
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">DOM JavaScript Challenge</h3>
+      <div align="center">
+        <a href="#dom-project-link" target="_blank">
+          <img src="https://via.placeholder.com/500x300?text=DOM+JavaScript+Challenge" width="100%" alt="DOM JavaScript Challenge"/>
+        </a>
+        <p>
+          <strong>Project description:</strong> Interactive web application showcasing DOM manipulation skills with vanilla JavaScript. Developed dynamic UI elements with event listeners and custom animations.
+        </p>
+        <div>
+          <a href="#dom-code-link" target="_blank">
+            <img src="https://img.shields.io/badge/Code-black?style=flat-square&logo=github" alt="Code">
+          </a>
+          <a href="#dom-demo-link" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-blue?style=flat-square&logo=chrome" alt="Demo">
+          </a>
+        </div>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Todo Master</h3>
+      <div align="center">
+        <a href="#todo-project-link" target="_blank">
+          <img src="https://via.placeholder.com/500x300?text=Todo+Master+App" width="100%" alt="Todo Master App"/>
+        </a>
+        <p>
+          <strong>Project description:</strong> Full-stack task management application with user authentication, CRUD operations, and data persistence. Built with React frontend and Node.js/Express backend.
+        </p>
+        <div>
+          <a href="#todo-code-link" target="_blank">
+            <img src="https://img.shields.io/badge/Code-black?style=flat-square&logo=github" alt="Code">
+          </a>
+          <a href="#todo-demo-link" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-blue?style=flat-square&logo=chrome" alt="Demo">
+          </a>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+
+## GitHub Stats 📊
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar-1m&show_icons=true&locale=en&layout=compact&theme=react" alt="Most Used Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sagar-1m&show_icons=true&locale=en&theme=react" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-1m&theme=react" alt="GitHub Streak" />
+</div>
