@@ -7,7 +7,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-maheshwari-4ab2ba286/)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@maheshwarisaga4)
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheshwarisagar65@gmail.com)
-  [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1nSl683hGLryFN3YlPFNgKchUrG97GOxK/view?usp=drive_link)
+  [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1aRrpvmqEsBAa1_SjG65XsqmzKyVxM5kM/view?usp=drive_link)
   
   <img src="https://komarev.com/ghpvc/?username=sagar-1m&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
@@ -48,7 +48,6 @@ I'm a passionate Full Stack Developer from India with a Bachelor's degree in Inf
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -63,11 +62,11 @@ I'm a passionate Full Stack Developer from India with a Bachelor's degree in Inf
 ## Certifications & Achievements 🏆
 
 <div align="center">
-  <a href="#certification-link" target="_blank">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-in/SagarMaheshwari-6268/C51E3C9A80FFBA2A?sharingId=11F109EB21A0AE43" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft_Certified-Azure_AI_Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certification" />
   </a>
   <br>
-  <a href="#challenge-link" target="_blank">
+  <a href="https://drive.google.com/file/d/1ii874BUcPHdfAsX6rYj1EEboGwhOcTpT/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft_Asia_AI_Odyssey_Challenge-Top_1000-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Challenge" />
   </a>
 </div>
@@ -79,17 +78,17 @@ I'm a passionate Full Stack Developer from India with a Bachelor's degree in Inf
     <td width="50%">
       <h3 align="center">DOM JavaScript Challenge</h3>
       <div align="center">
-        <a href="#dom-project-link" target="_blank">
-          <img src="https://via.placeholder.com/500x300?text=DOM+JavaScript+Challenge" width="100%" alt="DOM JavaScript Challenge"/>
+        <a href="https://sagar-1m.github.io/JavaScript-DOM-Challenges/" target="_blank">
+          <img src="https://drive.google.com/file/d/1pWxdWJF681Y9cPFk8UC6xMJbkPaOI6-h/view?usp=sharing" width="100%" alt="DOM JavaScript Challenge"/>
         </a>
         <p>
           <strong>Project description:</strong> Interactive web application showcasing DOM manipulation skills with vanilla JavaScript. Developed dynamic UI elements with event listeners and custom animations.
         </p>
         <div>
-          <a href="#dom-code-link" target="_blank">
+          <a href="https://github.com/sagar-1m/JavaScript-DOM-Challenges" target="_blank">
             <img src="https://img.shields.io/badge/Code-black?style=flat-square&logo=github" alt="Code">
           </a>
-          <a href="#dom-demo-link" target="_blank">
+          <a href="https://sagar-1m.github.io/JavaScript-DOM-Challenges/" target="_blank">
             <img src="https://img.shields.io/badge/Demo-blue?style=flat-square&logo=chrome" alt="Demo">
           </a>
         </div>
@@ -98,17 +97,17 @@ I'm a passionate Full Stack Developer from India with a Bachelor's degree in Inf
     <td width="50%">
       <h3 align="center">Todo Master</h3>
       <div align="center">
-        <a href="#todo-project-link" target="_blank">
-          <img src="https://via.placeholder.com/500x300?text=Todo+Master+App" width="100%" alt="Todo Master App"/>
+        <a href="https://sagar-1m.github.io/To-Do-Master/" target="_blank">
+          <img src="https://drive.google.com/file/d/1RxR4Pni3cFzZISKM3GOgmKUJRgOrCEH_/view?usp=sharing" width="100%" alt="Todo Master App"/>
         </a>
         <p>
           <strong>Project description:</strong> Full-stack task management application with user authentication, CRUD operations, and data persistence. Built with React frontend and Node.js/Express backend.
         </p>
         <div>
-          <a href="#todo-code-link" target="_blank">
+          <a href="https://github.com/sagar-1m/To-Do-Master" target="_blank">
             <img src="https://img.shields.io/badge/Code-black?style=flat-square&logo=github" alt="Code">
           </a>
-          <a href="#todo-demo-link" target="_blank">
+          <a href="https://sagar-1m.github.io/To-Do-Master/" target="_blank">
             <img src="https://img.shields.io/badge/Demo-blue?style=flat-square&logo=chrome" alt="Demo">
           </a>
         </div>
@@ -125,5 +124,6 @@ I'm a passionate Full Stack Developer from India with a Bachelor's degree in Inf
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sagar-1m&show_icons=true&locale=en&theme=react" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-1m&theme=react" alt="GitHub Streak" />
+  
+  <img src="https://streak-stats.demolab.com?user=sagar-1m&theme=react" alt="GitHub Streak" />
 </div>
