@@ -37,6 +37,25 @@ Passionate **Full Stack Developer** and **Technical Writer** who enjoys building
 
 I'm currently building a full-featured Event Management platform using the MERN stack (MongoDB, Express, React, Node.js). This project focuses on implementing secure Event management System, responsive design, and optimized performance metrics.
 
+## Open to Opportunities 💼
+
+<div align="center">
+  <a href="mailto:maheshwarisagar65@gmail.com?subject=Job%20Opportunity" target="_blank">
+    <img src="https://img.shields.io/badge/Actively_Seeking-Job_Opportunities-brightgreen?style=for-the-badge" alt="Job Opportunities" />
+  </a>
+</div>
+
+I'm currently looking for **Full Stack Developer**, **Frontend/Backend Developer**, and **SDE1** roles where I can apply my technical skills and continue to grow as a developer. Open to both job and internship opportunities with teams that value continuous learning and innovation.
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sagar-maheshwari-4ab2ba286/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:maheshwarisagar65@gmail.com?subject=Job%20Opportunity" target="_blank">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  </a>
+</div>
+
 ## Tech Stack & Skills 🚀
 
 ### Languages
