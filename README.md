@@ -6,7 +6,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-maheshwari-4ab2ba286/)
   [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@sagar-1m)
-  [![Peerlist](https://github-readme-badge.peerlist.io/api/sagar_1m?style=for-the-badge)](https://peerlist.io/sagar_1m)
+  [![Peerlist](https://img.shields.io/badge/Peerlist-00DC82?style=for-the-badge&logo=peerlist&logoColor=white)](https://peerlist.io/sagar_1m)
   [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/@SagarTheDev)
   [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/sagar_1m)
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheshwarisagar65@gmail.com)
