@@ -10,7 +10,7 @@
   [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/@SagarTheDev)
   [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/sagar_1m)
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheshwarisagar65@gmail.com)
-  [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1aRrpvmqEsBAa1_SjG65XsqmzKyVxM5kM/view?usp=drive_link)
+  [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1QX4HAMAp9pIB_fI7xN3FhqHjCjDAOIaj/view?usp=drive_link)
   
   <img src="https://komarev.com/ghpvc/?username=sagar-1m&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
