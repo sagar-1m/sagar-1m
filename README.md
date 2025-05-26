@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Hi there, I'm Sagar Maheshwari 👋</h1>
-  <h3>Full Stack Developer | Software Engineer | Technical Writer | Sports</h3>
+  <h3>Full Stack Developer | Software Engineer | Technical Writer | SportsPerson</h3>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-maheshwari-4ab2ba286/)
   [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@sagar-1m)
